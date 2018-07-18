@@ -14,6 +14,12 @@ public class Person {
         System.out.println ("Person 构造函数");
     }
 
+
+    public Person(Other other) {
+        this.name = other.getName ();
+        this.age = other.getAge ();
+    }
+
     public String getName() {
         return name;
     }
@@ -32,11 +38,11 @@ public class Person {
         this.age = age;
     }
 
-    public void init(){
+    public void init() {
         System.out.println ("===Person init");
     }
 
-    public void destory(){
+    public void destory() {
         System.out.println ("===Person destory");
     }
 
