@@ -2,7 +2,6 @@ package com.spring.fm.componentVSConfiguration;
 
 import com.spring.fm.bean.Other;
 import com.spring.fm.bean.Person;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
