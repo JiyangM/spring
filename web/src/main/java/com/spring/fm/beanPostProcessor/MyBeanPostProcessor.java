@@ -1,4 +1,4 @@
-package com.spring.fm.beanpostprocessor;
+package com.spring.fm.beanPostProcessor;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

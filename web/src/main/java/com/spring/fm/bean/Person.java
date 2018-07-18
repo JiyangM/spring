@@ -1,7 +1,6 @@
 package com.spring.fm.bean;
 
 /***
- * @Des: 场景式存证_Demo
  * @Author: jiyang
  * @Date: 2018-07-10 10:16
  */

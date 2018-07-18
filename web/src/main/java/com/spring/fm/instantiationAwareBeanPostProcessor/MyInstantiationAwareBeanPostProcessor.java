@@ -1,4 +1,4 @@
-package com.spring.fm.InstantiationAwareBeanPostProcessor;
+package com.spring.fm.instantiationAwareBeanPostProcessor;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.PropertyValues;

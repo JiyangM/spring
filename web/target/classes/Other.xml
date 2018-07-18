@@ -15,8 +15,8 @@
         <property name="name" value="other"></property>
     </bean>
 
-    <bean id="postProcess" class="com.spring.fm.beanpostprocessor.MyBeanPostProcessor"></bean>
+    <bean id="postProcess" class="com.spring.fm.beanPostProcessor.MyBeanPostProcessor"></bean>
 
-    <bean id="MyInstantiationAwareBeanPostProcessor" class="com.spring.fm.InstantiationAwareBeanPostProcessor.MyInstantiationAwareBeanPostProcessor"></bean>
+    <bean id="MyInstantiationAwareBeanPostProcessor" class="com.spring.fm.instantiationAwareBeanPostProcessor.MyInstantiationAwareBeanPostProcessor"></bean>
 
 </beans>
