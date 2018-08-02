@@ -14,4 +14,5 @@ public class Test {
         DemoPublisher demoPublisher = ctx.getBean (DemoPublisher.class);
         demoPublisher.puslishEvent ("你好呀");
     }
+
 }
