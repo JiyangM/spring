@@ -1,10 +1,20 @@
 package com.spring.fm.aware;
 
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
 /***
- * @Des: 场景式存证_Demo
  * @Author: jiyang
- * @Date: 2018-07-18 17:56
+ * @Date: 2018-07-31 12:37
  */
 public class Test {
+
+    public static void main(String[] args) throws Exception {
+        AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
+        ctx.registerBean(Config.class);
+        ctx.refresh();
+        AwareService awareService = ctx.getBean(AwareService.class);
+        awareService.outPut();
+    }
 
 }

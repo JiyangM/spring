@@ -18,7 +18,6 @@ import org.springframework.core.env.Environment;
 @ComponentScan("com.spring.fm.resource")
 public class ELConifg {
 
-
     @Autowired
     private Environment environment;
 
@@ -36,7 +35,7 @@ public class ELConifg {
         MyDataSource dataSource = new MyDataSource ();
         dataSource.setUrl (environment.getProperty ("url"));
         dataSource.setPassword (environment.getProperty ("username"));
-        dataSource.setUsername (environment.getProperty ("password"));
+        dataSource.setUsername (environment.getProperty ("useradd"));
         return dataSource;
     }
 

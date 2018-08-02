@@ -29,5 +29,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.0.0.M5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.0.0.M5" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:2.0.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
   </component>
 </module>
