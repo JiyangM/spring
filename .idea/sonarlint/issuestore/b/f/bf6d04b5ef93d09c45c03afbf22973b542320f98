@@ -1,32 +1,32 @@
 
-fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥éÄP8ëÆÖÉÏ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÉãŸ8ëÆÖÉÏ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ®ÞŽ8ëÆÖÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ëÆÖÉÏ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À¦äà8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖÛ¹ýÿÿÿÿ8ëÆÖÉÏ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ›éã8 »ˆÉÏ,
-]squid:S1854"BRemove this useless assignment to local variable "pattern_column".(Ï±o8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ð•‘ˆùÿÿÿÿ8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8 »ˆÉÏ,
 lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í „Éùÿÿÿÿ8ëÆÖÉÏ,
-]squid:S1854"<Remove this useless assignment to local variable "matcher2".(ó¥õÒùÿÿÿÿ8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Åª¥ùùÿÿÿÿ8ÔÄ¹ÉÏ,
+]squid:S1854"BRemove this useless assignment to local variable "pattern_column".(Ï±o8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íí“°úÿÿÿÿ8 »ˆÉÏ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ë÷ù°8ëÆÖÉÏ,
+Nsquid:S1481"3Remove this unused "pattern_column" local variable.(Ï±o8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ò¨š±ûÿÿÿÿ8ëÆÖÉÏ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À¦äà8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ð•‘ˆùÿÿÿÿ8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Êâ–ùÿÿÿÿ8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ëÆÖÉÏ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨±™¤8 »ˆÉÏ,
+Nsquid:S1481"-Remove this unused "matcher2" local variable.(ó¥õÒùÿÿÿÿ8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹ÏîÈùÿÿÿÿ8ëÆÖÉÏ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÉãŸ8ëÆÖÉÏ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ›éã8 »ˆÉÏ,
+isquid:UselessImportCheck"ARemove this unused import 'org.springframework.util.StringUtils'.(Ðôÿ8 »ˆÉÏ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é¥¯¹8ëÆÖÉÏ,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÄŽ”Ùûÿÿÿÿ8ëÆÖÉÏ,
-Nsquid:S1481"-Remove this unused "matcher2" local variable.(ó¥õÒùÿÿÿÿ8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íí“°úÿÿÿÿ8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹ÏîÈùÿÿÿÿ8ëÆÖÉÏ,
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÖ¥Æúÿÿÿÿ8 »ˆÉÏ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ë÷ù°8ëÆÖÉÏ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é¥¯¹8ëÆÖÉÏ,
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï±o8 »ˆÉÏ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥éÄP8ëÆÖÉÏ,
+]squid:S1854"<Remove this useless assignment to local variable "matcher2".(ó¥õÒùÿÿÿÿ8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ò§ôûÿÿÿÿ8ëÆÖÉÏ,
 S
 squid:S106"9Replace this use of System.out or System.err by a logger.(½¡õC8ëÆÖÉÏ,
-isquid:UselessImportCheck"ARemove this unused import 'org.springframework.util.StringUtils'.(Ðôÿ8 »ˆÉÏ,
-msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï±o8 »ˆÉÏ,
-Nsquid:S1481"3Remove this unused "pattern_column" local variable.(Ï±o8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Êâ–ùÿÿÿÿ8 »ˆÉÏ,
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨±™¤8 »ˆÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ò§ôûÿÿÿÿ8ëÆÖÉÏ,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ò¨š±ûÿÿÿÿ8ëÆÖÉÏ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÖ¥Æúÿÿÿÿ8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Åª¥ùùÿÿÿÿ8ÔÄ¹ÉÏ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ®ÞŽ8ëÆÖÉÏ,
 lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŽÒÒµþÿÿÿÿ8 »ˆÉÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖÛ¹ýÿÿÿÿ8ëÆÖÉÏ,

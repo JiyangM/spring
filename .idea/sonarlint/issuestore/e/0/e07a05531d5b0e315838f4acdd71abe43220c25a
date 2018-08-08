@@ -1,6 +1,12 @@
 
-esquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ù¿±ş8µ×€õÎ,
-V
-squid:S106!"9Replace this use of System.out or System.err by a logger.(½¹­Ë8ÛÉşôÎ,
-[
-squid:S106#"9Replace this use of System.out or System.err by a logger.( ÏİÈÿÿÿÿÿ8ÛÉşôÎ,
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ8¥îĞÏ,
+Wsquid:S1068"6Remove this unused "applicationContext" private field.(î‡²şÿÿÿÿ8¥îĞÏ,
+‚squid:S1450"aRemove the "applicationContext" field and declare it as a local variable in the relevant methods.(î‡²şÿÿÿÿ8¥îĞÏ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™†äªûÿÿÿÿ8¥îĞÏ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(½¹­Ë8¥îĞÏ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.( ÏİÈÿÿÿÿÿ8¥îĞÏ,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïñ]8¥îĞÏ,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ù¿±ş8¥îĞÏ,
