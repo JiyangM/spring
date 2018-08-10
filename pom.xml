@@ -10,7 +10,16 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>web</module>
+        <module>boot</module>
+        <module>pom</module>
+        <module>java8</module>
     </modules>
+
+    <!--<parent>-->
+        <!--<groupId>org.springframework.boot</groupId>-->
+        <!--<artifactId>spring-boot-starter-parent</artifactId>-->
+        <!--<version>1.3.5.RELEASE</version>-->
+    <!--</parent>-->
 
 
     <!--<properties>-->

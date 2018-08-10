@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="boot" />
+        <module name="java8" />
         <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api" target="1.5" />
+      <module name="boot" target="1.6" />
+      <module name="java8" target="1.8" />
+      <module name="longdai-spring-pom" target="1.6" />
       <module name="m" target="1.5" />
+      <module name="pom" target="1.6" />
       <module name="spring_framework" target="1.8" />
       <module name="web" target="1.8" />
     </bytecodeTargetLevel>

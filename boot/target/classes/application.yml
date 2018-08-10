@@ -1,0 +1,19 @@
+#server:
+#  port: 9090
+spring:
+  profiles:
+    active: prod
+
+book:
+  author: wangyunfei
+  name: spring boot
+
+author:
+  name: zhangsan
+  age: 12
+
+logging:
+  file: D:/mylog/log.log
+  level: info
+
+
